@@ -1,0 +1,26 @@
+
+
+body{
+    background-color: rgb(50, 50, 50);
+}
+
+
+#box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+}
+
+#btn2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    font-size: 5rem;
+    border: 5px solid black;
+    border-radius: 50px;
+}
+
